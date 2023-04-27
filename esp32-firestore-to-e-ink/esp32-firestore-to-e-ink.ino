@@ -49,10 +49,8 @@ SPIClass hspi(HSPI);
 #endif
 
 /* 1. Define the WiFi credentials */
-// #define WIFI_SSID "NOWTVP3MZZ"
-#define WIFI_SSID "Chalet-Loftus"
-// #define WIFI_PASSWORD "65ImNYYG8Y3J"
-#define WIFI_PASSWORD "Kressova00000"
+#define WIFI_SSID <WIFI>
+#define WIFI_PASSWORD <WIFI>
 
 /* 2. Define the API Key */
 #define API_KEY "AIzaSyA4ufCO69gmEE8pV51b3jh7eOAsWC7kwVU"
